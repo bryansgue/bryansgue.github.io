@@ -1,7 +1,7 @@
 # main links links
 main:
   - title: "Publications"
-    url: /publications/
+    url: https://scholar.google.es/citations?user=SEaFrDEAAAAJ&hl=es
 
   - title: "Talks"
     url: /talks/    
